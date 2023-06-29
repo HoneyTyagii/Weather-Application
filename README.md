@@ -69,5 +69,3 @@ This weather application is licensed under the MIT License. Feel free to modify 
 The weather application was inspired by the desire to create a simple and intuitive way for users to access weather information.
 
 Thanks to the creators of the OpenWeatherMap API for providing accurate and reliable weather data.
-
-Special thanks to all contributors and developers who have helped improve this project.
